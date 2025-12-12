@@ -79,7 +79,7 @@ const Hero = () => {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 1.2, duration: 1 }}
-              className="inline-block px-8 py-3 rounded-full text-white font-semibold text-lg
+              className="inline-block px-8 py-3 rounded-full text-white font-semibold mt-3 text-lg
               bg-gradient-to-r from-blue-500 to-purple-600 shadow-lg hover:shadow-xl 
               hover:scale-105 transition-all duration-300 text-center w-full sm:w-auto"
             >
